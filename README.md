@@ -18,13 +18,14 @@ click the **"Use this template"** button. You will be prompted to enter a reposi
 ![](docs/create_repo.png)
 
 Be sure to keep the repository "Public".
+Also make sure that "Include all branches" is checked, otherwise you won't be able to select the `gh-pages` branch later. 
 
 In your newly created repository, click on the **Settings tab** and scroll down to the **GitHub Pages** section.
 Then select the **gh-pages** branch. 
 
 ![](docs/github_pages.png)
 
-Wait a few minutes a Github will deploy a new website with the content of the repository.
+Wait a few minutes... Github will deploy a new website with the content of the repository.
 The address of the website is visible in the "GitHub Pages" section.
 
 ![](docs/website_address.png)
