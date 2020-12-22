@@ -84,7 +84,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/ASSETS\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -97,7 +97,7 @@
         {
          "columns":16,
          "firstgid":257,
-         "image":"..\/..\/ASSETS\/Modern_Interiors_v13.7\/1_Tilesets\/32x32\/Interiors_32x32.png",
+         "image":"Interiors_32x32.png",
          "imageheight":12736,
          "imagewidth":512,
          "margin":0,
@@ -110,7 +110,7 @@
         {
          "columns":40,
          "firstgid":6625,
-         "image":"..\/..\/ASSETS\/Modern_Interiors_v13.7\/1_Tilesets\/32x32\/Tilesets_32x32.png",
+         "image":"Tilesets_32x32.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
